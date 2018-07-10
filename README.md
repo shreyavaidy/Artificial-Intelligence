@@ -4,4 +4,6 @@ Work done to solve some AI problems and assignments. Im also adding some cool st
 * Solving N-puzzle
 * Learning to code adversarial search
 * 2048 game
+* Constraint Satisfaction Problem - a self-solving Sudoku.
+* Some Machine Learning algorithms and explorations through scikit-learn
 
