@@ -1,5 +1,8 @@
 # Artificial-Intelligence
-Work done to solve some AI problems and assignments. Im also adding some cool stuff based on AI algorithms that I found through my explorations of the internet (check it out if you'd like :P)
+
+Everything is basically just AI today right? So I had to make a repo with this name. That's all.
+
+But besides the excellent naming, I also added some code I wrote on AI problems and assignments. Shall also try to update with other useful things that I found through my explorations of the inter-webs. Stay-tuned for more commits ;)
 
 * Solving N-puzzle
 * Learning to code adversarial search
